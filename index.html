@@ -283,8 +283,7 @@
 
     <script>
         // Show correct page based on URL
-        const path = window.location.pathname;
-        if (path.includes('prod')) {
+        if ((window.location.search) = "?prod=true") {
             document.querySelector('.prank-page').style.display = 'block';
         } else {
             document.querySelector('.instruction-page').style.display = 'block';
