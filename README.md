@@ -4,7 +4,7 @@
 
 ## How to Use:
 
-1. Share the URL ending with '/prod' with your friend
+1. Share the URL "https://lalalollucky.github.io/OTP-Prank?prod=true" with your friend
 2. The correct OTP is: 52529211
 3. When they enter this OTP, they'll see an amusing prize animation
 
